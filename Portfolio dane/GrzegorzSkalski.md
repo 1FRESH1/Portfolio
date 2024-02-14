@@ -18,7 +18,7 @@
 - Entrepreneurship - ing
 - Print on demanding 
 - Currently learning programming by Self
-- Personal website [link](https://github.com/1FRESH1/portfolio.io)
+- Personal website [link](https://1fresh1.github.io/Portfolio/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 
