@@ -1,2 +1,0 @@
-# Portfolio
-this.Portolio = Portfolio;
