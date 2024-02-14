@@ -19,7 +19,7 @@
 - Entrepreneurship - ing
 - Print on demand
 - 
-- Personal website [link](https://1fresh1.github.io/Portfolio/) Work in progress 👷👨‍🔧
+- Personal website [link](https://1fresh1.github.io/Portfolio/) ( 👷 Work in progress 👷 )
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 
