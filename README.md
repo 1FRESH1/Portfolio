@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/1FRESH1/Portfolio/blob/1b3f19eff87cf172733f10410b8437ed3251171c/Portfolio%20dane/assets/programming-2.svg" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/1FRESH1/Portfolio/blob/1b3f19eff87cf172733f10410b8437ed3251171c/Portfolio%20dane/assets/programming-2.svg" width = 200px></picture>
 
 <br>
 
