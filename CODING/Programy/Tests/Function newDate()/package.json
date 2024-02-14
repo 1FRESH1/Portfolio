@@ -1,0 +1,12 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "do testow",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "G.Skalski",
+  "license": "MIT"
+}

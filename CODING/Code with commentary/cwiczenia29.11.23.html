@@ -1,0 +1,38 @@
+<!-- FILEPATH: /Users/freshhd/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Visual/cwiczenia29.11.23.html -->
+<!-- 
+    This HTML file contains exercises from November 29, 2023.
+    It includes two sections with buttons that trigger JavaScript functions.
+    The first section calculates the square of a number until it reaches Infinity.
+    The second section displays the hexadecimal value of 0xFF.
+-->
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1 style="color:blue">To sa cwiczenia z dnia 29.11.23</h1>
+    <p id="demo"></p>
+    <button onclick="myFunction()" style="color:aqua">Press</button>
+    <script>
+        function myFunction() {
+            let myNumber = 7;
+            let txt = ""
+            while (myNumber != Infinity) {
+                myNumber = myNumber * myNumber;
+                txt = txt + myNumber + "<br>";
+            }
+            document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+
+    <h2 style="color:aqua">To jest druga czesc cwiczen</h2>
+    <p id="demo"></p>
+    <button onclick="myFunction1()" style="color: blueviolet;">Press</button>
+    <script>
+        function myFunction1() {
+            let g = 0xFF;
+            documnet.getElementById("demo").innerHTML = "0xFF =" + "" + g;
+        } 
+    </script>
+</body>
+
+</html>
