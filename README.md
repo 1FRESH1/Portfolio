@@ -13,12 +13,13 @@
 <br>
 
 - A enthusiastic Self-taught "developer"
+- Currently learning programming by Self
 - Playing Forex at spare time... 📈
 - Creating digital content
 - Entrepreneurship - ing
-- Print on demanding 
-- Currently learning programming by Self
-- Personal website [link](https://1fresh1.github.io/Portfolio/)
+- Print on demand
+- 
+- Personal website [link](https://1fresh1.github.io/Portfolio/) Work in progress 👷👨‍🔧
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 
