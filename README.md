@@ -98,17 +98,17 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/1FRESH1/Portfolio/blob/a7548cc9363c5cf1edaacde447ed96b5757b97de/Portfolio%20dane/assets/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<!--<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
+</li>-->
 
 <br>
 
