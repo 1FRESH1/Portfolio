@@ -11003,9 +11003,12 @@ html {
 }
 
 .portfolio .portfolio-grid-subheading4 {
-  font-size: 1.25;
+  font-size: 1.25rem;
 }
 
+.portfolio .portfolio-grid-subheading5 {
+  font-size: 1.25 rem;
+  
 @media (min-width: 992px) {
   .masthead {
     padding-top: calc(6rem + 104px);
