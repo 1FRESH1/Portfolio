@@ -99,7 +99,7 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/1FRESH1/Portfolio/blob/a7548cc9363c5cf1edaacde447ed96b5757b97de/Portfolio%20dane/assets/handshake.gif" width ="80">
 <br>
-<div align='left'>
+<div align='center'>
 
 <ul>
 <!--
