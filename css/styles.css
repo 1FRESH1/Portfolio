@@ -10983,7 +10983,7 @@ html {
 }
 
 .portfolio .portfolio-subheading {
-  font-size: 1.45rem;
+  font-size: 1.25rem;
 }
 
 .portfolio .portfolio-grid-subheading {
@@ -11008,6 +11008,7 @@ html {
 
 .portfolio .portfolio-grid-subheading5 {
   font-size: 1.25rem;
+}
   
 @media (min-width: 992px) {
   .masthead {
