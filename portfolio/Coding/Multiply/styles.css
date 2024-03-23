@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    min-height: 100vh;
+    min-width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    position: relative;
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.3);
+    max-width: 50rem;
+    width: 100%;
+    height: 25rem;
+    padding: 3rem 2rem;
+    border-radius: 0.5rem;
+    transition: .3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container div {
+    display: flex;
+    justify-content: center;
+}
+
+.container .input {
+    position: absolute;
+    right: 7%;
+    top: 32.4%;
+    transform: translate(-50%);
+}
+
+.container .randomNumber {
+    position: absolute;
+    width: 500px;
+    left: 41%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header {
+    position: relative;
+    font-family: "comfortaa", sans-serif;
+    font-size: 4.1rem;
+    text-shadow: 5px 10px 9px rgba(0, 0, 0, 0.3);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.randomNumber {
+    font-family: "comfortaa", sans-serif;
+    font-size: 7rem;
+    text-shadow: 5px 10px 9px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    padding-bottom: 0.5rem;
+}
+
+
+.input {
+    font-family: "comfortaa", sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 5rem;
+    font-weight: 800;
+    background: rgba(255, 255, 255, 0.472);
+    box-shadow: inset 0px 0px 5px 7px #ffffff62, 5px 10px 9px rgba(0, 0, 0, 0.2);
+    width: 130px;
+    height: 120px;
+    border-radius: 15px;
+    padding: 0.5rem 0.5rem;
+    outline: none;
+    border: none;
+}
+
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.296);
+    font-family: "comfortaa", sans-serif;
+    color: green;
+    font-size: 4.5rem;
+    text-align: center;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaa;
+    float: left;
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 0.5rem;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+.btns {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: auto;
+}
+
+.btns .btn:first-child {
+    top: 50%;
+    left: 25%;
+}
+
+.btns .btn:nth-child(2) {
+    top: 50%;
+    left: 40%;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.468);
+    border-radius: 15px;
+    box-shadow: inset 0px 0px 5px 7px #ffffff7b, 5px 10px 9px rgba(0, 0, 0, 0.2);
+    color: #ffffff;
+}
+
+.btns .btn {
+    position: relative;
+    font-family: "comfortaa", sans-serif;
+    font-weight: 450;
+    text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.4);
+    font-size: 1.4rem;
+    width: 100px;
+    height: 70px;
+    border: none;
+    padding: 0.5rem 0.5rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-right: 7rem;
+}
+
+.btns .btn:hover {
+    background: #8e2de2;
+}
