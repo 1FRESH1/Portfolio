@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.h1 {
+    position: absolute;
+    font-family: "Inter" sans-serif;
+    text-align: center;
+
+    font-size: 45px;
+    font-weight: normal;
+    margin-bottom: 30px;
+    color: #000000;
+    left: 27%;
+}
+
+.result {
+    position: absolute;
+    font-family: "Inter" sans-serif;
+    font-size: 1.1rem;
+
+    line-height: 3rem;
+    color: #333;
+    margin-top: 1rem;
+    border-top: 1px solid #eee;
+    transition: all 0.3s ease-in-out;
+    left: 60%;
+
+}
+
+.container:hover {
+    transform: scale(1.02);
+}
+
+#result:hover {
+    color: #006eff;
+}
